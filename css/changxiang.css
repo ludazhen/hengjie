@@ -1,0 +1,404 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(../images/lsz/bg-top-ten.jpg) repeat-y center 0;
+}
+
+.theme-bright .pull-right nav ul li a {
+    color: black !important;
+}
+
+a:hover,
+a:active,
+a:link,
+a:visited {
+    text-decoration: none;
+}
+
+.salable-container {
+    width: 100%;
+    padding: 18.15em 0 13.2em 0
+}
+
+.col-md-3 span {
+    font-size: 14px !important;
+}
+
+.col-md-2 ul li a {
+    font-size: 16px !important;
+    color: #666 !important;
+}
+
+.salable-item {
+    position: relative;
+}
+
+.color-blue small {
+    color: #002e64
+}
+
+.salable-item.top-1 {
+    padding-left: 60%
+}
+
+.w1 {
+    width: 30em;
+    left: 8%;
+    top: -5em;
+}
+
+.salable-image {
+    position: absolute;
+    top: -80px;
+    z-index: 2
+}
+
+.number-ranking {
+    font-size: 3.2em;
+    margin: 0;
+    padding: 0;
+    line-height: 100%;
+    font-weight: 700;
+    color: #002e64;
+}
+
+.hegii-rank small {
+    font-size: 12px;
+    font-weight: 700;
+    color: #002e64;
+}
+
+.salable-item-info-mark h3 {
+    font-size: 1.8em;
+    margin: 0;
+    margin: .6em 0;
+    font-weight: 700;
+    color: #002e64;
+}
+
+.salable-item-info .slogan {
+    font-size: 1.1em;
+    height: 1.6em;
+    line-height: 1.6em;
+}
+
+.read-more {
+    display: inline-block;
+    margin-top: 2.5em;
+    text-decoration: underline !important;
+    font-weight: 700;
+    color: #002e64;
+}
+
+.popularity {
+    float: right;
+    width: 61%;
+    color: #002e64;
+    margin-top: 3.3em;
+}
+
+.popularity span {
+    color: #e71f5d;
+}
+
+.clearfix {
+    font-size: 1.1em;
+    color: #898989;
+}
+
+.salable-container .salable-list .salable-item .salable-item-info .salable-item-info-mark h3 {
+    font-size: 1.5em;
+    margin: 0;
+    margin: .6em 0;
+    font-weight: 700;
+}
+
+
+/* 第二个 */
+
+.stdsd {
+    width: 24.4em;
+    left: 57.2%;
+    top: -5em;
+}
+
+.f1 {
+    text-align: right;
+}
+
+.f2 {
+    width: 66%;
+    float: left;
+    margin-top: 3.5em;
+}
+
+
+/* 第三个 */
+
+.salable-item.color-blue2 small {
+    color: #00abe6;
+}
+
+.f3 {
+    padding-left: 35.5%;
+    margin-top: 10.5em;
+}
+
+.f4 {
+    width: 20.4em;
+    left: -0.5em;
+    top: -1em;
+}
+
+.f5 {
+    width: 75%;
+}
+
+.salable-container .salable-list .salable-item.color-blue2 .number-ranking,
+.salable-container .salable-list .salable-item.color-blue2 .read-more,
+.salable-container .salable-list .salable-item.color-blue2 h3,
+.salable-container .salable-list .salable-item.color-blue2 small {
+    color: #00abe6;
+}
+
+
+/* 第四个 */
+
+.f6 {
+    position: relative;
+    padding-right: 34.1%;
+    margin-top: 14em;
+    text-align: right;
+}
+
+.f7 {
+    position: absolute;
+    width: 19.58em;
+    left: 45.5em;
+    top: -12em;
+}
+
+.f8 {
+    width: 70%;
+    float: left;
+}
+
+
+/* 第五个 */
+
+.f9 {
+    padding-left: 45%;
+    margin-top: 9.65em;
+}
+
+.f10 {
+    width: 20em;
+    left: 5%;
+    top: -5em;
+}
+
+.f11 {
+    width: 69%;
+}
+
+.salable-container .salable-list .salable-item.color-green .number-ranking,
+.salable-container .salable-list .salable-item.color-green .read-more,
+.salable-container .salable-list .salable-item.color-green h3,
+.salable-container .salable-list .salable-item.color-green small {
+    color: #00a7b5;
+}
+
+
+/* 第六个 */
+
+.f12 {
+    padding-right: 24.7%;
+    margin-top: 8.3em;
+    text-align: right;
+}
+
+.f13 {
+    width: 15.39em;
+    left: 77%;
+    top: -11em;
+}
+
+.f14 {
+    width: 78%;
+    float: left;
+}
+
+.salable-container .salable-list .salable-item.color-gold .number-ranking,
+.salable-container .salable-list .salable-item.color-gold .read-more,
+.salable-container .salable-list .salable-item.color-gold h3,
+.salable-container .salable-list .salable-item.color-gold small {
+    color: #caa977;
+}
+
+
+/* 第七个 */
+
+.f15 {
+    width: 76%;
+}
+
+
+/* 第九个 */
+
+.f16 {
+    width: 70%;
+}
+
+.f17 {
+    text-align: right;
+}
+
+.f18 {
+    float: left;
+}
+
+.f19 {
+    width: 33.23em;
+    left: 53%;
+    top: -1em;
+}
+
+.f20 {
+    padding-right: 54.6%;
+    margin-top: 10.3em;
+}
+
+.salable-container .salable-list .salable-item.color-purple .number-ranking,
+.salable-container .salable-list .salable-item.color-purple .read-more,
+.salable-container .salable-list .salable-item.color-purple h3,
+.salable-container .salable-list .salable-item.color-purple small {
+    color: #606eb2;
+}
+
+
+/* 尾部 */
+
+* {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+@media (min-width: 1480px) {
+    .container {
+        width: 1170px;
+    }
+}
+
+@media (min-width: 1480px) {
+    body,
+    html {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .container {
+        width: 900px;
+    }
+}
+
+footer {
+    background-color: #f6f6f6;
+    padding: 4.5em 15%;
+    color: #8d898c;
+}
+
+footer .footer-nav li {
+    line-height: 1.75em;
+    height: 1.75em;
+    font-size: 12PX;
+}
+
+footer .clearfix li {
+    font-size: 12PX;
+}
+
+footer a {
+    color: #8d898c;
+}
+
+footer .footer-nav .footer-logo {
+    width: 192px;
+    margin-bottom: 1.25em;
+}
+
+footer .footer-nav p.tel {
+    font-size: 1.75em;
+}
+
+footer .footer-nav .footer-social p {
+    width: 5em;
+    height: 23px;
+    float: left;
+    line-height: 170%;
+}
+
+footer .footer-nav .footer-social .social-wechat,
+footer .footer-nav .footer-social .social-weibo {
+    width: 23px;
+    height: 23px;
+    float: left;
+    position: relative;
+    z-index: 2;
+}
+
+footer .footer-nav .footer-social .social-wechat a,
+footer .footer-nav .footer-social .social-weibo a {
+    width: 23px;
+    height: 23px;
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    background: url(../images/lsz/icon-footer-social.png) no-repeat 0 0;
+    text-indent: -100em;
+}
+
+footer .footer-nav .footer-social .social-weibo a {
+    background-position: 0 -23px;
+}
+
+footer .copyright {
+    margin-top: 1.5em;
+    font-size: .85em;
+}
+
+footer .copyright ul li {
+    float: left;
+    padding: 0 .5em;
+    border-right: 1px solid #948c88;
+}
+
+footer .copyright small {
+    color: #a3a3a3;
+}
+
+footer .copyright .col-md-7 {
+    text-align: right;
+}
+
+footer .col-md-4 p {
+    font-size: 14px;
+}
+
+footer .col-md-7 {
+    font-size: 12px;
+}
+
+.footerf {
+    position: fixed;
+    width: 41px;
+    height: 41px;
+    bottom: 0;
+    right: 0;
+    z-index: 1000;
+    cursor: pointer;
+}
